@@ -1,6 +1,6 @@
 # 💫 About Me:
 <img src="https://imgur.com/Z9n1y5S.gif" height=47% width=47% align="right">
-🔭 I’m currently working on Full stack development <br><br>👨‍💻 My social media handle https://www.linkedin.com/in/arpita-singh-/<br><br>📫 How to reach me arpitasingh83037@gmail.com<br><br>⚡ Fun fact I love to Travel
+🔭 I’m currently working on Full stack development and Data Structures and Algorithms  <br><br>👨‍💻 My social media handle https://www.linkedin.com/in/arpita-singh-/<br><br>📫 How to reach me arpitasingh83037@gmail.com<br><br>⚡ Fun fact I love to Yapp
 
 
 ## 🌐 Socials:
